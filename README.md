@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Arjun's Page
 
-You can use the [editor on GitHub](https://github.com/arjun1299/PCBDesign/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I decided to use this method to keep track of my notes and also share them with anybody else who may need them
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Enjoy
 
 ```markdown
 Syntax highlighted code block
