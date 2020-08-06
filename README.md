@@ -12,7 +12,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- [PCB Design Rules notes](https://arjun1299.github.io/PCBDesign/)
 - List
 
 1. Numbered
@@ -23,6 +22,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[PCB Design Rules notes](https://arjun1299.github.io/PCBDesign/)
 
 ### Jekyll Themes
 
